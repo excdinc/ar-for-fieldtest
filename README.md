@@ -69,9 +69,9 @@ See the following video for details and instructions:
 このリポジトリに含まれる `.usdz` ファイルおよびその他の関連ファイルは、MITライセンスのもとで公開されています。  
 詳しくは [LICENSE](./LICENSE) ファイルをご覧ください。
 
+※ 本コンテンツを使用または再配布する場合は、著作権表示およびMITライセンスの全文を削除しないでください。
+
 The `.usdz` files and related assets in this repository are licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for details.
 
-
-
-
+※ If you use or redistribute this content, **do not remove the copyright notice or the full text of the MIT License**.
