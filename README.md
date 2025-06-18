@@ -14,16 +14,25 @@ iPhoneやiPadの画面で現実空間上にコースを映すことが出来ま�
 - 使用アプリ：ファイルアプリ  
 - 使用方法：.usdzファイルをダウンロードし、ファイルアプリで開いてください。
 
-ダウンロード方法
+### ダウンロード方法
 
-いずれかの.usdzファイルをタップ  
+いずれかの.usdzファイルをタップ
+
+![いずれかの.usdzファイルをタップ](images/ar_1.png)
+
 右上のメニューボタンからダウンロードを選択してください。
 
-### 補足事項
+![右上のメニューボタンからダウンロードを選択してください](images/ar_2.png)
 
-- アプリ内ブラウザで開いている場合はデフォルトブラウザで開いてからダウンロードしてください。  
-- 一度ダウンロードしたら、ファイルアプリに自動で保存されていますので、2回目以降はファイルアプリからusdzファイルを開くことができます。  
+### 補足事項
+- アプリ内ブラウザで開いている場合はデフォルトブラウザで開いてからダウンロードしてください。
+- 一度ダウンロードしたら、ファイルアプリに自動で保存されていますので、2回目以降はファイルアプリからusdzファイルを開くことができます。
 - usdzファイルがARで表示できなくなった場合は一度ファイルアプリを落とし、再度ファイルアプリを開いて、最近開いた項目からusdzファイルを開いてください。
+
+![一度ファイルアプリを落とし、再度ファイルアプリを開いてください](images/ar_3.png)
+
+![最近開いた項目からusdzファイルを開いてください](images/ar_4.png)
+
 
 ### 配布ファイル一覧 / Distributed Files
 
@@ -66,16 +75,24 @@ See the following video for details and instructions:
 - Required app: Files app  
 - How to use: Download the `.usdz` file and open it in the Files app.
 
-### Download Instructions
+### How to Download
 
-1. Tap on any `.usdz` file  
-2. Select "Download" from the top-right menu
+Tap on any of the `.usdz` files.
 
-### Notes
+![Tap on any of the .usdz files](images/ar_1.png)
 
-- If you're using an in-app browser, please switch to your default browser to download.  
-- Once downloaded, the file will be saved in the Files app automatically.  
-- If AR rendering fails, close the Files app and reopen it, then try opening the `.usdz` file again.
+Then tap the menu button at the top-right and select "Download".
+
+![Select "Download" from the top-right menu](images/ar_2.png)
+
+### Additional Notes
+- If you are viewing this page in an in-app browser (e.g., from social media), please open it in your default browser before downloading.
+- Once downloaded, the file will automatically be saved to the Files app. From the second time onward, you can open the `.usdz` file directly from the Files app.
+- If the `.usdz` file is no longer displaying in AR, try closing the Files app completely and reopening it. Then open the file again from the "Recently Opened" section.
+
+![Close and reopen the Files app](images/ar_3.png)
+
+![Open the file from "Recently Opened"] (images/ar_4.png)
 
 ### List of Distributed Files
 
@@ -94,8 +111,6 @@ The `.usdz` files and related assets in this repository are licensed under the M
 See the [LICENSE](./LICENSE) file for details.
 
 ※ If you use or redistribute this content, **do not remove the copyright notice or the full text of the MIT License**.
-
----
 
 ### Disclaimer
 
