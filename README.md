@@ -59,7 +59,7 @@ iPhoneやiPadの画面で現実空間上にコースを映すことが出来ま�
 
 ※ 本コンテンツを使用または再配布する場合は、著作権表示およびMITライセンスの全文を削除しないでください。
 
-## お問い合わせ 
+### お問い合わせ 
 
 - 会社名: 株式会社エクシーディー
 - Webサイト: https://exc-d.com
@@ -132,7 +132,7 @@ See the [LICENSE](./LICENSE) file for details.
 
 ※ If you use or redistribute this content, **do not remove the copyright notice or the full text of the MIT License**.
 
-##  Contact
+### Contact
 
 - Company: exc-D inc.  
 - Website: https://exc-d.com  
