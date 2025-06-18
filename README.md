@@ -34,4 +34,44 @@ iPhoneやiPadの画面で現実空間上にコースを映すことが出来ま�
 
 ![最近開いた項目からusdzファイルを開いてください](images/ar_4.png)
 
+---
+
+## Remote Pilot Skill Certification  
+# AR Practice Course (Augmented Reality)
+
+This project provides an AR version of the practical test course for drone remote pilot certification.  
+You can project the course into real space using an iPhone or iPad screen.  
+Using this AR content, you can place cones and draw lines without needing a physical tape measure.
+
+See the following video for details and instructions:
+
+[![Remote Pilot Skill Certification AR Course](http://img.youtube.com/vi/w9anxjQpvg0/0.jpg)](https://youtu.be/w9anxjQpvg0)
+
+- Supported devices: iOS devices (iPhone/iPad)  
+- Required app: Files app  
+- How to use: Download the `.usdz` file and open it in the Files app.
+
+### Download Instructions
+
+1. Tap on any `.usdz` file  
+2. Select "Download" from the top-right menu
+
+### Notes
+
+- If you're using an in-app browser, please switch to your default browser to download.  
+- Once downloaded, the file will be saved in the Files app automatically.  
+- If AR rendering fails, close the Files app and reopen it, then try opening the `.usdz` file again.
+
+---
+
+## ライセンス / License
+
+このリポジトリに含まれる `.usdz` ファイルおよびその他の関連ファイルは、MITライセンスのもとで公開されています。  
+詳しくは [LICENSE](./LICENSE) ファイルをご覧ください。
+
+The `.usdz` files and related assets in this repository are licensed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
+
+
+
 
