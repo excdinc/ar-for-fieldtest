@@ -105,6 +105,12 @@ The following `.usdz` files are included in this repository:
 - Square course (Basic & Daylight only, Level 2): `2等_スクエア_基本・昼間限定解除.usdz`  
 - Emergency procedure (Basic & Daylight only, Level 2): `2等_異常事態_基本・昼間限定解除.usdz`
 
+### Disclaimer
+
+This AR content is provided for training and educational purposes related to drone pilot certification.  
+It is not intended for use in official examinations unless approved by authorized personnel.  
+The creator assumes no responsibility for any damages resulting from its use.
+
 ### License
 
 The `.usdz` files and related assets in this repository are licensed under the MIT License.  
@@ -112,8 +118,4 @@ See the [LICENSE](./LICENSE) file for details.
 
 ※ If you use or redistribute this content, **do not remove the copyright notice or the full text of the MIT License**.
 
-### Disclaimer
 
-This AR content is provided for training and educational purposes related to drone pilot certification.  
-It is not intended for use in official examinations unless approved by authorized personnel.  
-The creator assumes no responsibility for any damages resulting from its use.
