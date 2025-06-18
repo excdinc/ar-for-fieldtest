@@ -65,10 +65,10 @@ iPhoneやiPadの画面で現実空間上にコースを映すことが出来ま�
 - Webサイト: https://exc-d.com
 - Email: office@exc-d.com
 - GitHub: https://github.com/excdinc  
-- X (旧Twitter): [@exc_d_inc](https://twitter.com/excdinc)  
+- X (旧Twitter): [@excdinc](https://twitter.com/excdinc)  
 - Instagram: https://www.instagram.com/excdinc
 - Facebook: https://www.facebook.com/excdinc
-- YouTube: https://www.youtube.com/@exc-d
+- YouTube: https://www.youtube.com/@excdinc
 
 
 ---
@@ -136,8 +136,8 @@ See the [LICENSE](./LICENSE) file for details.
 
 - Company: exc-D inc.  
 - Website: https://exc-d.com  
-- GitHub: https://github.com/exc-d  
-- X: [@exc_d_inc](https://twitter.com/excdinc)  
+- GitHub: https://github.com/excdinc  
+- X: [@excdinc](https://twitter.com/excdinc)  
 - Instagram: https://www.instagram.com/excdinc
 - Facebook: https://www.facebook.com/excdinc
-- YouTube: https://www.youtube.com/@exc-d
+- YouTube: https://www.youtube.com/@excdinc
