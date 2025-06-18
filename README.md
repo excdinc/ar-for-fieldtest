@@ -53,10 +53,23 @@ iPhoneやiPadの画面で現実空間上にコースを映すことが出来ま�
 
 ### ライセンス
 
+© 2025 exc-D inc.  
 このリポジトリに含まれる `.usdz` ファイルおよびその他の関連ファイルは、MITライセンスのもとで公開されています。  
 詳しくは [LICENSE](./LICENSE) ファイルをご覧ください。
 
 ※ 本コンテンツを使用または再配布する場合は、著作権表示およびMITライセンスの全文を削除しないでください。
+
+## お問い合わせ 
+
+- 会社名: 株式会社エクシーディー
+- Webサイト: https://exc-d.com
+- Email: office@exc-d.com
+- GitHub: https://github.com/excdinc  
+- X (旧Twitter): [@exc_d_inc](https://twitter.com/excdinc)  
+- Instagram: https://www.instagram.com/excdinc
+- Facebook: https://www.facebook.com/excdinc
+- YouTube: https://www.youtube.com/@exc-d
+
 
 ---
 
@@ -113,9 +126,18 @@ The creator assumes no responsibility for any damages resulting from its use.
 
 ### License
 
+© 2025 exc-D inc.  
 The `.usdz` files and related assets in this repository are licensed under the MIT License.  
 See the [LICENSE](./LICENSE) file for details.
 
 ※ If you use or redistribute this content, **do not remove the copyright notice or the full text of the MIT License**.
 
+##  Contact
 
+- Company: exc-D inc.  
+- Website: https://exc-d.com  
+- GitHub: https://github.com/exc-d  
+- X: [@exc_d_inc](https://twitter.com/excdinc)  
+- Instagram: https://www.instagram.com/excdinc
+- Facebook: https://www.facebook.com/excdinc
+- YouTube: https://www.youtube.com/@exc-d
