@@ -5,7 +5,8 @@
 iPhoneやiPadの画面で現実空間上にコースを映すことが出来ます。  
 これを使えばメジャーを使わなくても、画面を見ながらコーンの配置やラインを引いたりしてコースを作成することが出来ます。  
  
-概要や使用方法は以下の動画をご参照ください。  
+ 
+概要や使用方法は以下の動画をご参照ください。 
 
 
 [![無人航空機操縦者技能証明 実地試験コース AR](http://img.youtube.com/vi/w9anxjQpvg0/0.jpg)](https://youtu.be/w9anxjQpvg0)
@@ -34,6 +35,17 @@ iPhoneやiPadの画面で現実空間上にコースを映すことが出来ま�
 
 ![最近開いた項目からusdzファイルを開いてください](images/ar_4.png)
 
+### 配布ファイル一覧 / Distributed Files
+
+以下の `.usdz` ファイルが含まれています：
+
+- 1等・2等_8の字.usdz  
+- 1等_スクエア_基本・昼間限定解除.usdz  
+- 1等_スクエア_目視内限定解除.usdz  
+- 1等_異常事態_目視内限定解除.usdz  
+- 2等_スクエア_基本・昼間限定解除.usdz  
+- 2等_異常事態_基本・昼間限定解除.usdz
+
 ---
 
 ## Remote Pilot Skill Certification  
@@ -61,6 +73,17 @@ See the following video for details and instructions:
 - If you're using an in-app browser, please switch to your default browser to download.  
 - Once downloaded, the file will be saved in the Files app automatically.  
 - If AR rendering fails, close the Files app and reopen it, then try opening the `.usdz` file again.
+
+### List of Distributed Files
+
+The following `.usdz` files are included in this repository:
+
+- 8-figure maneuver for Level 1 & 2: `1等・2等_8の字.usdz`  
+- Square course (Basic & Daylight only, Level 1): `1等_スクエア_基本・昼間限定解除.usdz`  
+- Square course (Visual line-of-sight only, Level 1): `1等_スクエア_目視内限定解除.usdz`  
+- Emergency procedure (Visual line-of-sight only, Level 1): `1等_異常事態_目視内限定解除.usdz`  
+- Square course (Basic & Daylight only, Level 2): `2等_スクエア_基本・昼間限定解除.usdz`  
+- Emergency procedure (Basic & Daylight only, Level 2): `2等_異常事態_基本・昼間限定解除.usdz`
 
 ---
 
